@@ -847,3 +847,7 @@ If you use these skill patterns in your research or project, please cite:
 ## License
 
 MIT License. See LICENSE file for details.
+
+## Support
+
+[Donate](https://drive.google.com/file/d/14KBkEcr6j4KaxDHcHyejdYlFDt4GjR6O/view?usp=drive_link)
